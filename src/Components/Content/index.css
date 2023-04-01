@@ -1,5 +1,9 @@
 .content {
-    max-width: 1024px;
+    max-width: 1900px;
+    height: 100vh;
     margin: 50px auto;
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #fff;
 }

@@ -9,19 +9,73 @@ export default function Content() {
             <CardComponent
                 title="Título do vídeo"
                 description="Descrição do vídeo"
-                thumbnail="https://placekeanu.com/345/194/y"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/kl"
+                videoUrl=""
+                publishDate=""
             />
 
             <CardComponent
                 title="Título do vídeo"
                 description="Descrição do vídeo"
-                thumbnail="https://placekeanu.com/345/194/"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/hot"
+                videoUrl=""
+                publishDate=""
             />
 
             <CardComponent
                 title="Título do vídeo"
                 description="Descrição do vídeo"
-                thumbnail="https://placekeanu.com/345/194/x"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/jw"
+                videoUrl=""
+                publishDate=""
+            />
+
+            <CardComponent
+                title="Título do vídeo"
+                description="Descrição do vídeo"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/z"
+                videoUrl=""
+                publishDate=""
+            />
+
+            <CardComponent
+                title="Título do vídeo"
+                description="Descrição do vídeo"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/f"
+                videoUrl=""
+                publishDate=""
+            />
+
+            <CardComponent
+                title="Título do vídeo"
+                description="Descrição do vídeo"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/w"
+                videoUrl=""
+                publishDate=""
+            />
+
+            <CardComponent
+                title="Título do vídeo"
+                description="Descrição do vídeo"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/b"
+                videoUrl=""
+                publishDate=""
+            />
+
+            <CardComponent
+                title="Título do vídeo"
+                description="Descrição do vídeo"
+                category=""
+                thumbnail="https://placekeanu.com/345/194/a"
+                videoUrl=""
+                publishDate=""
             />
         </div>
     )

@@ -9,7 +9,7 @@ export default function Header() {
         <header>
             <div className="header-container">
                 <div className='logo'>
-                    <h1>Videos</h1>
+                    <h1>Video Training</h1>
                 </div>
 
                 <nav>
@@ -24,12 +24,11 @@ export default function Header() {
                         <SearchOutlinedIcon />
                     </Button>
                 </nav>
-                <button>
+                <div>
                     <p>Dark</p>
                     <ToggleSwitch />
-                </button>
+                </div>
             </div>
         </header>
     )
-
 }
