@@ -60,7 +60,7 @@ export default function Content() {
                 publishDate=""
             />
 
-            <CardComponent
+            {/* <CardComponent
                 title="Título do vídeo"
                 description="Descrição do vídeo"
                 category=""
@@ -76,7 +76,7 @@ export default function Content() {
                 thumbnail="https://placekeanu.com/345/194/a"
                 videoUrl=""
                 publishDate=""
-            />
+            /> */}
         </div>
     )
 }
