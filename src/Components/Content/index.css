@@ -1,0 +1,9 @@
+.content {
+    max-width: 1880px;
+    height: 100vh;
+    margin: 50px auto;
+    padding: 0px 80px 0px 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
