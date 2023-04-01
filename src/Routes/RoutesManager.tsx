@@ -1,4 +1,4 @@
-import HomeController from "../Screens/Home/Home";
+import HomeController from "../Screens/Home/Home2";
 import { Routes, Route } from "react-router-dom";
 
 const RoutesManager = () => {
